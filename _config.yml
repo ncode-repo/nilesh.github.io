@@ -1,0 +1,38 @@
+# Site settings
+title: Nilesh Shinde
+Linkedin_username: nilehhshinde
+name: Nilesh Shinde
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: GitHub
+   url: https://github.com/nilesh-repo
+#Any buzzword skills you want to include
+skills:
+ - Java
+ - Spring MVC
+ - Spring Boot
+ - Microservices
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
+#Work experience is required
+roles:
+ - title: Tech project manager
+   start: 2019 Jan
+   end: Ongoing
+   employer: Cognizant
+   description: Cognizant is an Fortune500 company. <br/> I am a technical manager working closely with the Delivery Lead, working across the full-stack, I am involved in all aspects of the technology including the design project and back-end services.
+#Education is required
+education:
+ - level: Master of Computer Science (M.Sc.)
+   date: 2006
+   subject: Computer Science
+   school: University of Pune
+#This section is optional (as is the image link below)
+#List of interesting Github repo/projects to include - optional
+github:
+ - nilesh-repo/microservices
+#Stackoverflow flair is optional
+#Mobile apps section is optional#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 5, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. In my current role is designing microservices architecture following contract first approch.  
